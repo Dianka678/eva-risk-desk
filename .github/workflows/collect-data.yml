@@ -1,6 +1,10 @@
 name: Collect public space data
 
 on:
+  push:
+    branches: [main]
+    paths-ignore:
+      - "site/data/**"
   schedule:
     - cron: "17 * * * *"
   workflow_dispatch:

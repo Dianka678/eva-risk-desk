@@ -1,0 +1,26 @@
+{
+  "records": [
+    {
+      "source": "iss_position",
+      "path": "data/raw/2026/09/18/iss_position_20260918T210233Z.json",
+      "retrieved_at": "2026-09-18T21:02:33.665975Z",
+      "sha256_payload": "6f1e6c478622f00d4acbbaa1976750a9ed17b8f50cacdc70bd36fc2f2c53f195",
+      "size_bytes": 640
+    },
+    {
+      "source": "iss_omm",
+      "path": "data/raw/2026/09/18/iss_omm_20260918T210233Z.json",
+      "retrieved_at": "2026-09-18T21:02:33.665975Z",
+      "sha256_payload": "9675c7698f557565ef1f7233a7d32a50ef2635505095cdfb3ace2a4156b608ed",
+      "size_bytes": 837
+    },
+    {
+      "source": "goes_integral_protons",
+      "path": "data/raw/2026/09/18/goes_integral_protons_20260918T210233Z.json",
+      "retrieved_at": "2026-09-18T21:02:33.665975Z",
+      "sha256_payload": "ae19cdc46820bc1fe4267e0216377d652870ac9413402b31fcc3c277d57aa7e2",
+      "size_bytes": 39538
+    }
+  ],
+  "generated_at": "2026-09-18T21:02:33.665975Z"
+}

@@ -1,0 +1,1688 @@
+{
+  "source": "goes_integral_protons",
+  "source_url": "https://services.swpc.noaa.gov/json/goes/primary/integral-protons-plot-6-hour.json",
+  "retrieved_at": "2026-09-18T21:02:33.665975Z",
+  "sha256_payload": "ae19cdc46820bc1fe4267e0216377d652870ac9413402b31fcc3c277d57aa7e2",
+  "payload": [
+    {
+      "time_tag": "2026-09-18T15:05:00Z",
+      "satellite": 18,
+      "flux": 0.21607203781604767,
+      "energy": ">=10 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T15:05:00Z",
+      "satellite": 18,
+      "flux": 0.2061210721731186,
+      "energy": ">=100 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T15:05:00Z",
+      "satellite": 18,
+      "flux": 0.20889538526535034,
+      "energy": ">=50 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T15:05:00Z",
+      "satellite": 18,
+      "flux": 0.20268495380878448,
+      "energy": ">=500 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T15:10:00Z",
+      "satellite": 18,
+      "flux": 0.29316961765289307,
+      "energy": ">=10 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T15:10:00Z",
+      "satellite": 18,
+      "flux": 0.1935647577047348,
+      "energy": ">=100 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T15:10:00Z",
+      "satellite": 18,
+      "flux": 0.19538195431232452,
+      "energy": ">=50 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T15:10:00Z",
+      "satellite": 18,
+      "flux": 0.1866835504770279,
+      "energy": ">=500 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T15:15:00Z",
+      "satellite": 18,
+      "flux": 0.20943987369537354,
+      "energy": ">=10 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T15:15:00Z",
+      "satellite": 18,
+      "flux": 0.1870071291923523,
+      "energy": ">=100 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T15:15:00Z",
+      "satellite": 18,
+      "flux": 0.1889294981956482,
+      "energy": ">=50 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T15:15:00Z",
+      "satellite": 18,
+      "flux": 0.18134993314743042,
+      "energy": ">=500 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T15:20:00Z",
+      "satellite": 18,
+      "flux": 0.23224399983882904,
+      "energy": ">=10 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T15:20:00Z",
+      "satellite": 18,
+      "flux": 0.2227395474910736,
+      "energy": ">=100 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T15:20:00Z",
+      "satellite": 18,
+      "flux": 0.22417864203453064,
+      "energy": ">=50 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T15:20:00Z",
+      "satellite": 18,
+      "flux": 0.20801898837089539,
+      "energy": ">=500 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T15:25:00Z",
+      "satellite": 18,
+      "flux": 0.2548139989376068,
+      "energy": ">=10 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T15:25:00Z",
+      "satellite": 18,
+      "flux": 0.2143484652042389,
+      "energy": ">=100 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T15:25:00Z",
+      "satellite": 18,
+      "flux": 0.21578580141067505,
+      "energy": ">=50 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T15:25:00Z",
+      "satellite": 18,
+      "flux": 0.1920175999403,
+      "energy": ">=500 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T15:30:00Z",
+      "satellite": 18,
+      "flux": 0.20236358046531677,
+      "energy": ">=10 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T15:30:00Z",
+      "satellite": 18,
+      "flux": 0.18073183298110962,
+      "energy": ">=100 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T15:30:00Z",
+      "satellite": 18,
+      "flux": 0.18838676810264587,
+      "energy": ">=50 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T15:30:00Z",
+      "satellite": 18,
+      "flux": 0.17734980583190918,
+      "energy": ">=500 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T15:35:00Z",
+      "satellite": 18,
+      "flux": 0.2322685569524765,
+      "energy": ">=10 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T15:35:00Z",
+      "satellite": 18,
+      "flux": 0.20338742434978485,
+      "energy": ">=100 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T15:35:00Z",
+      "satellite": 18,
+      "flux": 0.20492729544639587,
+      "energy": ">=50 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T15:35:00Z",
+      "satellite": 18,
+      "flux": 0.1973513960838318,
+      "energy": ">=500 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T15:40:00Z",
+      "satellite": 18,
+      "flux": 0.190592959523201,
+      "energy": ">=10 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T15:40:00Z",
+      "satellite": 18,
+      "flux": 0.17905069887638092,
+      "energy": ">=100 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T15:40:00Z",
+      "satellite": 18,
+      "flux": 0.18233783543109894,
+      "energy": ">=50 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T15:40:00Z",
+      "satellite": 18,
+      "flux": 0.16401495039463043,
+      "energy": ">=500 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T15:45:00Z",
+      "satellite": 18,
+      "flux": 0.32714417576789856,
+      "energy": ">=10 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T15:45:00Z",
+      "satellite": 18,
+      "flux": 0.2047336846590042,
+      "energy": ">=100 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T15:45:00Z",
+      "satellite": 18,
+      "flux": 0.20655007660388947,
+      "energy": ">=50 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T15:45:00Z",
+      "satellite": 18,
+      "flux": 0.2013521045446396,
+      "energy": ">=500 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T15:50:00Z",
+      "satellite": 18,
+      "flux": 0.2588011920452118,
+      "energy": ">=10 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T15:50:00Z",
+      "satellite": 18,
+      "flux": 0.22538641095161438,
+      "energy": ">=100 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T15:50:00Z",
+      "satellite": 18,
+      "flux": 0.23718859255313873,
+      "energy": ">=50 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T15:50:00Z",
+      "satellite": 18,
+      "flux": 0.21068663895130157,
+      "energy": ">=500 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T15:55:00Z",
+      "satellite": 18,
+      "flux": 0.2246229499578476,
+      "energy": ">=10 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T15:55:00Z",
+      "satellite": 18,
+      "flux": 0.2150178700685501,
+      "energy": ">=100 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T15:55:00Z",
+      "satellite": 18,
+      "flux": 0.21655791997909546,
+      "energy": ">=50 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T15:55:00Z",
+      "satellite": 18,
+      "flux": 0.19468559324741364,
+      "energy": ">=500 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T16:00:00Z",
+      "satellite": 18,
+      "flux": 0.22862514853477478,
+      "energy": ">=10 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T16:00:00Z",
+      "satellite": 18,
+      "flux": 0.19089919328689575,
+      "energy": ">=100 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T16:00:00Z",
+      "satellite": 18,
+      "flux": 0.19271671772003174,
+      "energy": ">=50 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T16:00:00Z",
+      "satellite": 18,
+      "flux": 0.18401749432086945,
+      "energy": ">=500 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T16:05:00Z",
+      "satellite": 18,
+      "flux": 0.2097795456647873,
+      "energy": ">=10 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T16:05:00Z",
+      "satellite": 18,
+      "flux": 0.19271042943000793,
+      "energy": ">=100 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T16:05:00Z",
+      "satellite": 18,
+      "flux": 0.20027075707912445,
+      "energy": ">=50 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T16:05:00Z",
+      "satellite": 18,
+      "flux": 0.18801864981651306,
+      "energy": ">=500 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T16:10:00Z",
+      "satellite": 18,
+      "flux": 0.2671577036380768,
+      "energy": ">=10 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T16:10:00Z",
+      "satellite": 18,
+      "flux": 0.18825988471508026,
+      "energy": ">=100 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T16:10:00Z",
+      "satellite": 18,
+      "flux": 0.19855545461177826,
+      "energy": ">=50 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T16:10:00Z",
+      "satellite": 18,
+      "flux": 0.18135125935077667,
+      "energy": ">=500 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T16:15:00Z",
+      "satellite": 18,
+      "flux": 0.23244525492191315,
+      "energy": ">=10 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T16:15:00Z",
+      "satellite": 18,
+      "flux": 0.21790997684001923,
+      "energy": ">=100 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T16:15:00Z",
+      "satellite": 18,
+      "flux": 0.22297033667564392,
+      "energy": ">=50 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T16:15:00Z",
+      "satellite": 18,
+      "flux": 0.20268665254116058,
+      "energy": ">=500 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T16:20:00Z",
+      "satellite": 18,
+      "flux": 0.23716852068901062,
+      "energy": ">=10 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T16:20:00Z",
+      "satellite": 18,
+      "flux": 0.22763198614120483,
+      "energy": ">=100 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T16:20:00Z",
+      "satellite": 18,
+      "flux": 0.22911109030246735,
+      "energy": ">=50 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T16:20:00Z",
+      "satellite": 18,
+      "flux": 0.22402213513851166,
+      "energy": ">=500 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T16:25:00Z",
+      "satellite": 18,
+      "flux": 0.2525413930416107,
+      "energy": ">=10 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T16:25:00Z",
+      "satellite": 18,
+      "flux": 0.21186292171478271,
+      "energy": ">=100 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T16:25:00Z",
+      "satellite": 18,
+      "flux": 0.21586816012859344,
+      "energy": ">=50 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T16:25:00Z",
+      "satellite": 18,
+      "flux": 0.19735272228717804,
+      "energy": ">=500 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T16:30:00Z",
+      "satellite": 18,
+      "flux": 0.26877596974372864,
+      "energy": ">=10 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T16:30:00Z",
+      "satellite": 18,
+      "flux": 0.22074347734451294,
+      "energy": ">=100 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T16:30:00Z",
+      "satellite": 18,
+      "flux": 0.22228331863880157,
+      "energy": ">=50 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T16:30:00Z",
+      "satellite": 18,
+      "flux": 0.19601930677890778,
+      "energy": ">=500 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T16:35:00Z",
+      "satellite": 18,
+      "flux": 0.23625433444976807,
+      "energy": ">=10 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T16:35:00Z",
+      "satellite": 18,
+      "flux": 0.19541367888450623,
+      "energy": ">=100 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T16:35:00Z",
+      "satellite": 18,
+      "flux": 0.19685129821300507,
+      "energy": ">=50 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T16:35:00Z",
+      "satellite": 18,
+      "flux": 0.19068561494350433,
+      "energy": ">=500 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T16:40:00Z",
+      "satellite": 18,
+      "flux": 0.27375754714012146,
+      "energy": ">=10 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T16:40:00Z",
+      "satellite": 18,
+      "flux": 0.20819076895713806,
+      "energy": ">=100 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T16:40:00Z",
+      "satellite": 18,
+      "flux": 0.21102838218212128,
+      "energy": ">=50 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T16:40:00Z",
+      "satellite": 18,
+      "flux": 0.1893521398305893,
+      "energy": ">=500 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T16:45:00Z",
+      "satellite": 18,
+      "flux": 0.24177971482276917,
+      "energy": ">=10 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T16:45:00Z",
+      "satellite": 18,
+      "flux": 0.2223556488752365,
+      "energy": ">=100 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T16:45:00Z",
+      "satellite": 18,
+      "flux": 0.23121732473373413,
+      "energy": ">=50 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T16:45:00Z",
+      "satellite": 18,
+      "flux": 0.1960197389125824,
+      "energy": ">=500 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T16:50:00Z",
+      "satellite": 18,
+      "flux": 0.26702383160591125,
+      "energy": ">=10 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T16:50:00Z",
+      "satellite": 18,
+      "flux": 0.1950157731771469,
+      "energy": ">=100 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T16:50:00Z",
+      "satellite": 18,
+      "flux": 0.19995072484016418,
+      "energy": ">=50 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T16:50:00Z",
+      "satellite": 18,
+      "flux": 0.1733507364988327,
+      "energy": ">=500 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T16:55:00Z",
+      "satellite": 18,
+      "flux": 0.2503814101219177,
+      "energy": ">=10 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T16:55:00Z",
+      "satellite": 18,
+      "flux": 0.218083918094635,
+      "energy": ">=100 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T16:55:00Z",
+      "satellite": 18,
+      "flux": 0.22441411018371582,
+      "energy": ">=50 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T16:55:00Z",
+      "satellite": 18,
+      "flux": 0.20668771862983704,
+      "energy": ">=500 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T17:00:00Z",
+      "satellite": 18,
+      "flux": 0.21729609370231628,
+      "energy": ">=10 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T17:00:00Z",
+      "satellite": 18,
+      "flux": 0.20535731315612793,
+      "energy": ">=100 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T17:00:00Z",
+      "satellite": 18,
+      "flux": 0.20681065320968628,
+      "energy": ">=50 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T17:00:00Z",
+      "satellite": 18,
+      "flux": 0.1986868530511856,
+      "energy": ">=500 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T17:05:00Z",
+      "satellite": 18,
+      "flux": 0.2651467025279999,
+      "energy": ">=10 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T17:05:00Z",
+      "satellite": 18,
+      "flux": 0.21570582687854767,
+      "energy": ">=100 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T17:05:00Z",
+      "satellite": 18,
+      "flux": 0.21720582246780396,
+      "energy": ">=50 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T17:05:00Z",
+      "satellite": 18,
+      "flux": 0.2106884866952896,
+      "energy": ">=500 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T17:10:00Z",
+      "satellite": 18,
+      "flux": 0.19437922537326813,
+      "energy": ">=10 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T17:10:00Z",
+      "satellite": 18,
+      "flux": 0.1754445731639862,
+      "energy": ">=100 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T17:10:00Z",
+      "satellite": 18,
+      "flux": 0.17828238010406494,
+      "energy": ">=50 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T17:10:00Z",
+      "satellite": 18,
+      "flux": 0.16668376326560974,
+      "energy": ">=500 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T17:15:00Z",
+      "satellite": 18,
+      "flux": 0.2168731540441513,
+      "energy": ">=10 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T17:15:00Z",
+      "satellite": 18,
+      "flux": 0.19406813383102417,
+      "energy": ">=100 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T17:15:00Z",
+      "satellite": 18,
+      "flux": 0.2016373723745346,
+      "energy": ">=50 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T17:15:00Z",
+      "satellite": 18,
+      "flux": 0.19068633019924164,
+      "energy": ">=500 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T17:20:00Z",
+      "satellite": 18,
+      "flux": 0.19665741920471191,
+      "energy": ">=10 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T17:20:00Z",
+      "satellite": 18,
+      "flux": 0.1847120076417923,
+      "energy": ">=100 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T17:20:00Z",
+      "satellite": 18,
+      "flux": 0.18616679310798645,
+      "energy": ">=50 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T17:20:00Z",
+      "satellite": 18,
+      "flux": 0.18001849949359894,
+      "energy": ">=500 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T17:25:00Z",
+      "satellite": 18,
+      "flux": 0.20780691504478455,
+      "energy": ">=10 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T17:25:00Z",
+      "satellite": 18,
+      "flux": 0.19216179847717285,
+      "energy": ">=100 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T17:25:00Z",
+      "satellite": 18,
+      "flux": 0.1953420788049698,
+      "energy": ">=50 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T17:25:00Z",
+      "satellite": 18,
+      "flux": 0.18268580734729767,
+      "energy": ">=500 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T17:30:00Z",
+      "satellite": 18,
+      "flux": 0.2199682742357254,
+      "energy": ">=10 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T17:30:00Z",
+      "satellite": 18,
+      "flux": 0.20598387718200684,
+      "energy": ">=100 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T17:30:00Z",
+      "satellite": 18,
+      "flux": 0.2075236588716507,
+      "energy": ">=50 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T17:30:00Z",
+      "satellite": 18,
+      "flux": 0.20135433971881866,
+      "energy": ">=500 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T17:35:00Z",
+      "satellite": 18,
+      "flux": 0.18231560289859772,
+      "energy": ">=10 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T17:35:00Z",
+      "satellite": 18,
+      "flux": 0.1514512449502945,
+      "energy": ">=100 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T17:35:00Z",
+      "satellite": 18,
+      "flux": 0.15435095131397247,
+      "energy": ">=50 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T17:35:00Z",
+      "satellite": 18,
+      "flux": 0.14801554381847382,
+      "energy": ">=500 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T17:40:00Z",
+      "satellite": 18,
+      "flux": 0.21632257103919983,
+      "energy": ">=10 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T17:40:00Z",
+      "satellite": 18,
+      "flux": 0.2036312371492386,
+      "energy": ">=100 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T17:40:00Z",
+      "satellite": 18,
+      "flux": 0.20550638437271118,
+      "energy": ">=50 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T17:40:00Z",
+      "satellite": 18,
+      "flux": 0.20002108812332153,
+      "energy": ">=500 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T17:45:00Z",
+      "satellite": 18,
+      "flux": 0.24290725588798523,
+      "energy": ">=10 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T17:45:00Z",
+      "satellite": 18,
+      "flux": 0.23285439610481262,
+      "energy": ">=100 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T17:45:00Z",
+      "satellite": 18,
+      "flux": 0.23466967046260834,
+      "energy": ">=50 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T17:45:00Z",
+      "satellite": 18,
+      "flux": 0.20802216231822968,
+      "energy": ">=500 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T17:50:00Z",
+      "satellite": 18,
+      "flux": 0.2144767791032791,
+      "energy": ">=10 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T17:50:00Z",
+      "satellite": 18,
+      "flux": 0.1974727064371109,
+      "energy": ">=100 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T17:50:00Z",
+      "satellite": 18,
+      "flux": 0.20361481606960297,
+      "energy": ">=50 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T17:50:00Z",
+      "satellite": 18,
+      "flux": 0.18268588185310364,
+      "energy": ">=500 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T17:55:00Z",
+      "satellite": 18,
+      "flux": 0.1984376311302185,
+      "energy": ">=10 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T17:55:00Z",
+      "satellite": 18,
+      "flux": 0.18894344568252563,
+      "energy": ">=100 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T17:55:00Z",
+      "satellite": 18,
+      "flux": 0.19038066267967224,
+      "energy": ">=50 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T17:55:00Z",
+      "satellite": 18,
+      "flux": 0.17868533730506897,
+      "energy": ">=500 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T18:00:00Z",
+      "satellite": 18,
+      "flux": 0.2334854155778885,
+      "energy": ">=10 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T18:00:00Z",
+      "satellite": 18,
+      "flux": 0.22144217789173126,
+      "energy": ">=100 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T18:00:00Z",
+      "satellite": 18,
+      "flux": 0.2229977548122406,
+      "energy": ">=50 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T18:00:00Z",
+      "satellite": 18,
+      "flux": 0.2026883363723755,
+      "energy": ">=500 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T18:05:00Z",
+      "satellite": 18,
+      "flux": 0.3158588707447052,
+      "energy": ">=10 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T18:05:00Z",
+      "satellite": 18,
+      "flux": 0.21465164422988892,
+      "energy": ">=100 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T18:05:00Z",
+      "satellite": 18,
+      "flux": 0.216090127825737,
+      "energy": ">=50 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T18:05:00Z",
+      "satellite": 18,
+      "flux": 0.19335399568080902,
+      "energy": ">=500 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T18:10:00Z",
+      "satellite": 18,
+      "flux": 0.24418561160564423,
+      "energy": ">=10 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T18:10:00Z",
+      "satellite": 18,
+      "flux": 0.23006533086299896,
+      "energy": ">=100 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T18:10:00Z",
+      "satellite": 18,
+      "flux": 0.2316049188375473,
+      "energy": ">=50 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T18:10:00Z",
+      "satellite": 18,
+      "flux": 0.2053554207086563,
+      "energy": ">=500 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T18:15:00Z",
+      "satellite": 18,
+      "flux": 0.26589804887771606,
+      "energy": ">=10 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T18:15:00Z",
+      "satellite": 18,
+      "flux": 0.1953372359275818,
+      "energy": ">=100 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T18:15:00Z",
+      "satellite": 18,
+      "flux": 0.1968921720981598,
+      "energy": ">=50 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T18:15:00Z",
+      "satellite": 18,
+      "flux": 0.1826864629983902,
+      "energy": ">=500 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T18:20:00Z",
+      "satellite": 18,
+      "flux": 0.24941779673099518,
+      "energy": ">=10 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T18:20:00Z",
+      "satellite": 18,
+      "flux": 0.21487116813659668,
+      "energy": ">=100 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T18:20:00Z",
+      "satellite": 18,
+      "flux": 0.21632379293441772,
+      "energy": ">=50 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T18:20:00Z",
+      "satellite": 18,
+      "flux": 0.19468779861927032,
+      "energy": ">=500 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T18:25:00Z",
+      "satellite": 18,
+      "flux": 0.2608993351459503,
+      "energy": ">=10 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T18:25:00Z",
+      "satellite": 18,
+      "flux": 0.1881229430437088,
+      "energy": ">=100 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T18:25:00Z",
+      "satellite": 18,
+      "flux": 0.18959690630435944,
+      "energy": ">=50 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T18:25:00Z",
+      "satellite": 18,
+      "flux": 0.16001743078231812,
+      "energy": ">=500 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T18:30:00Z",
+      "satellite": 18,
+      "flux": 0.2511574625968933,
+      "energy": ">=10 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T18:30:00Z",
+      "satellite": 18,
+      "flux": 0.19203145802021027,
+      "energy": ">=100 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T18:30:00Z",
+      "satellite": 18,
+      "flux": 0.1935863047838211,
+      "energy": ">=50 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T18:30:00Z",
+      "satellite": 18,
+      "flux": 0.18535366654396057,
+      "energy": ">=500 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T18:35:00Z",
+      "satellite": 18,
+      "flux": 0.19882796704769135,
+      "energy": ">=10 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T18:35:00Z",
+      "satellite": 18,
+      "flux": 0.1861579418182373,
+      "energy": ">=100 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T18:35:00Z",
+      "satellite": 18,
+      "flux": 0.1879979968070984,
+      "energy": ">=50 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T18:35:00Z",
+      "satellite": 18,
+      "flux": 0.17735256254673004,
+      "energy": ">=500 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T18:40:00Z",
+      "satellite": 18,
+      "flux": 0.24862684309482574,
+      "energy": ">=10 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T18:40:00Z",
+      "satellite": 18,
+      "flux": 0.2197907716035843,
+      "energy": ">=100 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T18:40:00Z",
+      "satellite": 18,
+      "flux": 0.22761274874210358,
+      "energy": ">=50 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T18:40:00Z",
+      "satellite": 18,
+      "flux": 0.21469038724899292,
+      "energy": ">=500 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T18:45:00Z",
+      "satellite": 18,
+      "flux": 0.20997478067874908,
+      "energy": ">=10 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T18:45:00Z",
+      "satellite": 18,
+      "flux": 0.193259134888649,
+      "energy": ">=100 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T18:45:00Z",
+      "satellite": 18,
+      "flux": 0.20189633965492249,
+      "energy": ">=50 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T18:45:00Z",
+      "satellite": 18,
+      "flux": 0.1880207657814026,
+      "energy": ">=500 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T18:50:00Z",
+      "satellite": 18,
+      "flux": 0.23277683556079865,
+      "energy": ">=10 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T18:50:00Z",
+      "satellite": 18,
+      "flux": 0.1927424967288971,
+      "energy": ">=100 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T18:50:00Z",
+      "satellite": 18,
+      "flux": 0.20881496369838715,
+      "energy": ">=50 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T18:50:00Z",
+      "satellite": 18,
+      "flux": 0.1786864995956421,
+      "energy": ">=500 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T18:55:00Z",
+      "satellite": 18,
+      "flux": 0.2159431129693985,
+      "energy": ">=10 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T18:55:00Z",
+      "satellite": 18,
+      "flux": 0.18606744706630707,
+      "energy": ">=100 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T18:55:00Z",
+      "satellite": 18,
+      "flux": 0.18750585615634918,
+      "energy": ">=50 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T18:55:00Z",
+      "satellite": 18,
+      "flux": 0.1826861947774887,
+      "energy": ">=500 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T19:00:00Z",
+      "satellite": 18,
+      "flux": 0.2172376811504364,
+      "energy": ">=10 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T19:00:00Z",
+      "satellite": 18,
+      "flux": 0.20773687958717346,
+      "energy": ">=100 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T19:00:00Z",
+      "satellite": 18,
+      "flux": 0.20917384326457977,
+      "energy": ">=50 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T19:00:00Z",
+      "satellite": 18,
+      "flux": 0.1840192973613739,
+      "energy": ">=500 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T19:05:00Z",
+      "satellite": 18,
+      "flux": 0.24517561495304108,
+      "energy": ">=10 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T19:05:00Z",
+      "satellite": 18,
+      "flux": 0.23557978868484497,
+      "energy": ">=100 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T19:05:00Z",
+      "satellite": 18,
+      "flux": 0.23711919784545898,
+      "energy": ">=50 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T19:05:00Z",
+      "satellite": 18,
+      "flux": 0.1893538236618042,
+      "energy": ">=500 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T19:10:00Z",
+      "satellite": 18,
+      "flux": 0.2223203182220459,
+      "energy": ">=10 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T19:10:00Z",
+      "satellite": 18,
+      "flux": 0.20651139318943024,
+      "energy": ">=100 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T19:10:00Z",
+      "satellite": 18,
+      "flux": 0.20794975757598877,
+      "energy": ">=50 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T19:10:00Z",
+      "satellite": 18,
+      "flux": 0.19735480844974518,
+      "energy": ">=500 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T19:15:00Z",
+      "satellite": 18,
+      "flux": 0.20481452345848083,
+      "energy": ">=10 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T19:15:00Z",
+      "satellite": 18,
+      "flux": 0.18118661642074585,
+      "energy": ">=100 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T19:15:00Z",
+      "satellite": 18,
+      "flux": 0.1865920126438141,
+      "energy": ">=50 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T19:15:00Z",
+      "satellite": 18,
+      "flux": 0.1760188341140747,
+      "energy": ">=500 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T19:20:00Z",
+      "satellite": 18,
+      "flux": 0.24644474685192108,
+      "energy": ">=10 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T19:20:00Z",
+      "satellite": 18,
+      "flux": 0.20496773719787598,
+      "energy": ">=100 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T19:20:00Z",
+      "satellite": 18,
+      "flux": 0.20644640922546387,
+      "energy": ">=50 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T19:20:00Z",
+      "satellite": 18,
+      "flux": 0.20135541260242462,
+      "energy": ">=500 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T19:25:00Z",
+      "satellite": 18,
+      "flux": 0.21792227029800415,
+      "energy": ">=10 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T19:25:00Z",
+      "satellite": 18,
+      "flux": 0.20773088932037354,
+      "energy": ">=100 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T19:25:00Z",
+      "satellite": 18,
+      "flux": 0.20966295897960663,
+      "energy": ">=50 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T19:25:00Z",
+      "satellite": 18,
+      "flux": 0.20002174377441406,
+      "energy": ">=500 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T19:30:00Z",
+      "satellite": 18,
+      "flux": 0.22232316434383392,
+      "energy": ">=10 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T19:30:00Z",
+      "satellite": 18,
+      "flux": 0.20837485790252686,
+      "energy": ">=100 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T19:30:00Z",
+      "satellite": 18,
+      "flux": 0.2142488807439804,
+      "energy": ">=50 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T19:30:00Z",
+      "satellite": 18,
+      "flux": 0.2000221312046051,
+      "energy": ">=500 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T19:35:00Z",
+      "satellite": 18,
+      "flux": 0.2647861838340759,
+      "energy": ">=10 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T19:35:00Z",
+      "satellite": 18,
+      "flux": 0.21167485415935516,
+      "energy": ">=100 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T19:35:00Z",
+      "satellite": 18,
+      "flux": 0.22436901926994324,
+      "energy": ">=50 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T19:35:00Z",
+      "satellite": 18,
+      "flux": 0.1933550238609314,
+      "energy": ">=500 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T19:40:00Z",
+      "satellite": 18,
+      "flux": 0.19731445610523224,
+      "energy": ">=10 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T19:40:00Z",
+      "satellite": 18,
+      "flux": 0.17600640654563904,
+      "energy": ">=100 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T19:40:00Z",
+      "satellite": 18,
+      "flux": 0.18384061753749847,
+      "energy": ">=50 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T19:40:00Z",
+      "satellite": 18,
+      "flux": 0.16535168886184692,
+      "energy": ">=500 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T19:45:00Z",
+      "satellite": 18,
+      "flux": 0.22979691624641418,
+      "energy": ">=10 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T19:45:00Z",
+      "satellite": 18,
+      "flux": 0.17682814598083496,
+      "energy": ">=100 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T19:45:00Z",
+      "satellite": 18,
+      "flux": 0.18353788554668427,
+      "energy": ">=50 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T19:45:00Z",
+      "satellite": 18,
+      "flux": 0.15601757168769836,
+      "energy": ">=500 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T19:50:00Z",
+      "satellite": 18,
+      "flux": 0.21896226704120636,
+      "energy": ">=10 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T19:50:00Z",
+      "satellite": 18,
+      "flux": 0.1914067268371582,
+      "energy": ">=100 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T19:50:00Z",
+      "satellite": 18,
+      "flux": 0.19286784529685974,
+      "energy": ">=50 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T19:50:00Z",
+      "satellite": 18,
+      "flux": 0.17735257744789124,
+      "energy": ">=500 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T19:55:00Z",
+      "satellite": 18,
+      "flux": 0.21342624723911285,
+      "energy": ">=10 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T19:55:00Z",
+      "satellite": 18,
+      "flux": 0.20136842131614685,
+      "energy": ">=100 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T19:55:00Z",
+      "satellite": 18,
+      "flux": 0.2029237002134323,
+      "energy": ">=50 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T19:55:00Z",
+      "satellite": 18,
+      "flux": 0.19468820095062256,
+      "energy": ">=500 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T20:00:00Z",
+      "satellite": 18,
+      "flux": 0.23073256015777588,
+      "energy": ">=10 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T20:00:00Z",
+      "satellite": 18,
+      "flux": 0.21251147985458374,
+      "energy": ">=100 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T20:00:00Z",
+      "satellite": 18,
+      "flux": 0.21813234686851501,
+      "energy": ">=50 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T20:00:00Z",
+      "satellite": 18,
+      "flux": 0.19202065467834473,
+      "energy": ">=500 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T20:05:00Z",
+      "satellite": 18,
+      "flux": 0.21987783908843994,
+      "energy": ">=10 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T20:05:00Z",
+      "satellite": 18,
+      "flux": 0.20967786014080048,
+      "energy": ">=100 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T20:05:00Z",
+      "satellite": 18,
+      "flux": 0.2116106003522873,
+      "energy": ">=50 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T20:05:00Z",
+      "satellite": 18,
+      "flux": 0.20268890261650085,
+      "energy": ">=500 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T20:10:00Z",
+      "satellite": 18,
+      "flux": 0.2836441993713379,
+      "energy": ">=10 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T20:10:00Z",
+      "satellite": 18,
+      "flux": 0.2678109109401703,
+      "energy": ">=100 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T20:10:00Z",
+      "satellite": 18,
+      "flux": 0.2693501114845276,
+      "energy": ">=50 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T20:10:00Z",
+      "satellite": 18,
+      "flux": 0.20268850028514862,
+      "energy": ">=500 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T20:15:00Z",
+      "satellite": 18,
+      "flux": 0.2132963389158249,
+      "energy": ">=10 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T20:15:00Z",
+      "satellite": 18,
+      "flux": 0.18064787983894348,
+      "energy": ">=100 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T20:15:00Z",
+      "satellite": 18,
+      "flux": 0.18220271170139313,
+      "energy": ">=50 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T20:15:00Z",
+      "satellite": 18,
+      "flux": 0.17601899802684784,
+      "energy": ">=500 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T20:20:00Z",
+      "satellite": 18,
+      "flux": 0.21350273489952087,
+      "energy": ">=10 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T20:20:00Z",
+      "satellite": 18,
+      "flux": 0.20340323448181152,
+      "energy": ">=100 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T20:20:00Z",
+      "satellite": 18,
+      "flux": 0.20523390173912048,
+      "energy": ">=50 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T20:20:00Z",
+      "satellite": 18,
+      "flux": 0.2000219225883484,
+      "energy": ">=500 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T20:25:00Z",
+      "satellite": 18,
+      "flux": 0.23853056132793427,
+      "energy": ">=10 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T20:25:00Z",
+      "satellite": 18,
+      "flux": 0.22381623089313507,
+      "energy": ">=100 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T20:25:00Z",
+      "satellite": 18,
+      "flux": 0.2253553569316864,
+      "energy": ">=50 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T20:25:00Z",
+      "satellite": 18,
+      "flux": 0.18535307049751282,
+      "energy": ">=500 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T20:30:00Z",
+      "satellite": 18,
+      "flux": 0.21168921887874603,
+      "energy": ">=10 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T20:30:00Z",
+      "satellite": 18,
+      "flux": 0.1976659595966339,
+      "energy": ">=100 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T20:30:00Z",
+      "satellite": 18,
+      "flux": 0.19910265505313873,
+      "energy": ">=50 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T20:30:00Z",
+      "satellite": 18,
+      "flux": 0.18535372614860535,
+      "energy": ">=500 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T20:35:00Z",
+      "satellite": 18,
+      "flux": 0.2374511957168579,
+      "energy": ">=10 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T20:35:00Z",
+      "satellite": 18,
+      "flux": 0.22620223462581635,
+      "energy": ">=100 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T20:35:00Z",
+      "satellite": 18,
+      "flux": 0.22938179969787598,
+      "energy": ">=50 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T20:35:00Z",
+      "satellite": 18,
+      "flux": 0.2013547271490097,
+      "energy": ">=500 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T20:40:00Z",
+      "satellite": 18,
+      "flux": 0.26907581090927124,
+      "energy": ">=10 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T20:40:00Z",
+      "satellite": 18,
+      "flux": 0.2512780725955963,
+      "energy": ">=100 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T20:40:00Z",
+      "satellite": 18,
+      "flux": 0.2562844455242157,
+      "energy": ">=50 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T20:40:00Z",
+      "satellite": 18,
+      "flux": 0.2133561372756958,
+      "energy": ">=500 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T20:45:00Z",
+      "satellite": 18,
+      "flux": 0.2511928379535675,
+      "energy": ">=10 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T20:45:00Z",
+      "satellite": 18,
+      "flux": 0.21634286642074585,
+      "energy": ">=100 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T20:45:00Z",
+      "satellite": 18,
+      "flux": 0.21819186210632324,
+      "energy": ">=50 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T20:45:00Z",
+      "satellite": 18,
+      "flux": 0.2013542801141739,
+      "energy": ">=500 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T20:50:00Z",
+      "satellite": 18,
+      "flux": 0.26373764872550964,
+      "energy": ">=10 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T20:50:00Z",
+      "satellite": 18,
+      "flux": 0.24606497585773468,
+      "energy": ">=100 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T20:50:00Z",
+      "satellite": 18,
+      "flux": 0.25431665778160095,
+      "energy": ">=50 MeV"
+    },
+    {
+      "time_tag": "2026-09-18T20:50:00Z",
+      "satellite": 18,
+      "flux": 0.22935685515403748,
+      "energy": ">=500 MeV"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "source": "iss_omm",
+  "source_url": "https://celestrak.org/NORAD/elements/gp.php?CATNR=25544&FORMAT=JSON",
+  "retrieved_at": "2026-09-19T09:30:40.531545Z",
+  "sha256_payload": "c95f7197887dd17aaaab31b6ffb50114ee189e08ab3cb4cc589606bc2a7583e0",
+  "payload": [
+    {
+      "OBJECT_NAME": "ISS (ZARYA)",
+      "OBJECT_ID": "1998-067A",
+      "EPOCH": "2026-09-18T18:54:33.954336",
+      "MEAN_MOTION": 15.49168087,
+      "ECCENTRICITY": 0.00048272,
+      "INCLINATION": 51.6308,
+      "RA_OF_ASC_NODE": 196.8438,
+      "ARG_OF_PERICENTER": 155.1807,
+      "MEAN_ANOMALY": 204.9414,
+      "EPHEMERIS_TYPE": 0,
+      "CLASSIFICATION_TYPE": "U",
+      "NORAD_CAT_ID": 25544,
+      "ELEMENT_SET_NO": 999,
+      "REV_AT_EPOCH": 58626,
+      "BSTAR": 0.00011392763,
+      "MEAN_MOTION_DOT": 5.868e-05,
+      "MEAN_MOTION_DDOT": 0
+    }
+  ]
+}
